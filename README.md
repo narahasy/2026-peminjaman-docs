@@ -19,7 +19,7 @@ Proyek ini menggunakan arsitektur **Client-Server**:
 Berikut adalah endpoint utama yang dikembangkan di modul Backend:
 
 | Method | Endpoint | Deskripsi |
-| --- | --- | --- |
+|-------------------------------|
 | GET | `/api/Customers` | Mengambil semua data customer |
 | GET | `/api/Customers/{id}` | Mengambil detail satu customer |
 | POST | `/api/Customers` | Menambah customer baru |
